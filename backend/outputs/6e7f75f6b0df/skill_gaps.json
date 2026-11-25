@@ -1,0 +1,28 @@
+MATCH_SCORE: 92
+[
+  {
+    "skill": "TensorFlow",
+    "priority": "low",
+    "why": "The candidate is proficient in PyTorch, which is a comparable alternative, but TensorFlow is specifically mentioned in the job requirements."
+  },
+  {
+    "skill": "Pandas",
+    "priority": "low",
+    "why": "While the candidate has strong data engineering skills, explicit mention of Pandas is a preferred requirement for the data science stack."
+  },
+  {
+    "skill": "NumPy",
+    "priority": "low",
+    "why": "Explicitly listed in the job's preferred data science stack, though likely implied by the candidate's PyTorch expertise."
+  },
+  {
+    "skill": "Azure",
+    "priority": "low",
+    "why": "The job prefers exposure to major cloud providers, and the candidate's profile focuses primarily on AWS."
+  },
+  {
+    "skill": "GCP",
+    "priority": "low",
+    "why": "The job prefers exposure to major cloud providers, and the candidate's profile focuses primarily on AWS."
+  }
+]

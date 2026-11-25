@@ -1,0 +1,33 @@
+MATCH_SCORE: 85
+[
+  {
+    "skill": "TensorFlow",
+    "priority": "low",
+    "why": "The job prefers both major frameworks, though the candidate is strong in PyTorch."
+  },
+  {
+    "skill": "Pandas",
+    "priority": "medium",
+    "why": "Essential for the data cleaning and preprocessing responsibilities mentioned in the role."
+  },
+  {
+    "skill": "NumPy",
+    "priority": "medium",
+    "why": "A core requirement for the data science stack and mathematical operations."
+  },
+  {
+    "skill": "Azure/GCP",
+    "priority": "low",
+    "why": "The role prefers exposure to multiple cloud platforms beyond the candidate's AWS experience."
+  },
+  {
+    "skill": "Model Monitoring",
+    "priority": "high",
+    "why": "The role explicitly requires monitoring live model performance and recommending optimizations."
+  },
+  {
+    "skill": "Data Pipeline Management",
+    "priority": "medium",
+    "why": "The role emphasizes collecting and cleaning large-scale datasets for quality assurance."
+  }
+]

@@ -1,0 +1,64 @@
+# Shakil Ahmed Zunayed
+[City, Country/Remote] | [Phone Number] | [Email Address]
+[LinkedIn Profile URL] | [GitHub Profile URL]
+
+### **SUMMARY**
+Detail-oriented AI/ML Developer with a strong foundation in Computer Science and hands-on experience in developing, training, and deploying machine learning models. Proficient in the full model lifecycle, from data preprocessing and feature engineering to model optimization and deployment using FastAPI and Docker. Proven track record in implementing supervised learning techniques, including CNNs and BiLSTMs, and building agentic workflows. Adept at bridging the gap between theoretical research and practical, business-driven AI applications.
+
+### **TECHNICAL SKILLS**
+*   **Programming:** Python (Proficient), SQL, JavaScript, HTML/CSS
+*   **Machine Learning & AI:** Supervised Learning, Unsupervised Learning, PyTorch, Scikit-learn, Hugging Face, OpenCV, YOLO, CNN, BiLSTM, Attention Mechanisms, LangGraph, CrewAI
+*   **Data Engineering & Analysis:** Data Preprocessing, Feature Engineering, Data Analysis, Statistics, PostgreSQL, MongoDB, DuckDB, Vector Databases (Pinecone/Chroma)
+*   **Model Deployment & MLOps:** FastAPI, Docker, ONNX, Ray, AWS SageMaker, CI/CD, MLflow
+*   **Tools & Frameworks:** Git, MCP (Model Context Protocol), Pydantic, Claude Desktop, Cursor
+
+### **PROFESSIONAL EXPERIENCE**
+
+**Elite Research Lab AI** | Remote  
+*Research Intern* | July 2026 – Present
+*   Develop and implement state-of-the-art Computer Vision and Deep Learning models to solve complex visual recognition tasks.
+*   Optimize model experimentation workflows, significantly accelerating the training-to-evaluation cycle for faster iteration.
+*   Conduct deep data analysis to improve model accuracy and performance metrics.
+
+**FlyRank AI** | Remote  
+*ML Engineer Intern* | July 2026 – Sept 2026
+*   Performed advanced feature engineering by developing momentum and volatility features using DuckDB for large-scale client search-ranking datasets.
+*   Optimized ranking prediction pipelines using robust Random Forest models, ensuring model integrity by eliminating data leakage.
+*   Collaborated on data pipeline management, including cleaning and preprocessing large datasets to drive model accuracy.
+
+**Softghor Ltd** | Dhaka, Bangladesh  
+*Support Engineer* | Aug 2024 – Nov 2024
+*   Analyzed [Add Number] diagnostic logs to identify root causes, successfully reducing technical resolution time by 35%.
+*   Collaborated with QA teams to track [Add Number] bugs, accelerating release cycles by 20% and reducing support repeats by 40%.
+*   Maintained rigorous documentation of technical issues and resolutions to improve team knowledge sharing.
+
+### **TECHNICAL PROJECTS**
+
+**Delivery Vision MCP (Agentic AI Tooling)**
+*   Engineered an MCP server to expose YOLO vision models as functional tools for AI agents (Claude Desktop, Cursor).
+*   Implemented complex computer vision tasks including damage severity scoring, batch detection (20 images), and object counting.
+*   **Technologies:** YOLO, MCP, Claude Desktop, Python.
+
+**Support Flow Studio (Workflow Automation)**
+*   Developed a multi-agent CrewAI workflow to automate the categorization and routing of support tickets using LLMs.
+*   Built a robust fallback mechanism using keyword-rule logic to ensure system reliability during LLM outages.
+*   Deployed the solution via FastAPI with a web-based interface for user interaction.
+*   **Technologies:** CrewAI, FastAPI, Groq, Pydantic.
+
+**Jaal Taka: Banknote Counterfeit Detection (Supervised Learning)**
+*   Designed and trained a custom 3-block Convolutional Neural Network (CNN) in PyTorch to classify banknote authenticity.
+*   Managed the end-to-end pipeline: data collection (600 images), preprocessing, training, and evaluation.
+*   Deployed the model through a FastAPI application providing real-time prediction APIs.
+*   **Technologies:** PyTorch, CNN, FastAPI, Jinja2.
+
+**Amazon Review Sentiment Analyzer (Deep Learning)**
+*   Built a BiLSTM sentiment classifier utilizing Bahdanau attention mechanisms to process 60K Amazon reviews.
+*   Implemented single and batch prediction REST endpoints to support scalable inference.
+*   **Technologies:** PyTorch, BiLSTM, Attention, FastAPI.
+
+### **EDUCATION**
+**Bachelor of Science in Computer Science**  
+[University Name], [Location] | [Graduation Year]
+
+### **AWARDS**
+*   **1st Place:** Grameenphone Academy AI Bootcamp

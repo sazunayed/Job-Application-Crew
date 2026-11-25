@@ -1,0 +1,28 @@
+MATCH_SCORE: 85
+[
+  {
+    "skill": "TensorFlow",
+    "priority": "low",
+    "why": "The candidate is strong in PyTorch, but the job mentions TensorFlow as a preferred framework."
+  },
+  {
+    "skill": "Keras",
+    "priority": "low",
+    "why": "It is a listed preferred framework for model development that the candidate does not explicitly list."
+  },
+  {
+    "skill": "Git/GitHub",
+    "priority": "medium",
+    "why": "The job requires version control proficiency, and the candidate's profile shows a lack of visible collaborative Git history."
+  },
+  {
+    "skill": "Cloud Orchestration",
+    "priority": "medium",
+    "why": "While the candidate knows SageMaker, the role implies a need for deeper integration within broader cloud ecosystems."
+  },
+  {
+    "skill": "Technical Documentation",
+    "priority": "medium",
+    "why": "The role emphasizes rigorous documentation, which is a noted gap in the candidate's current public repository presentation."
+  }
+]
